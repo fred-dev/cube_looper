@@ -1,0 +1,18 @@
+<controls>
+    <SliderFloat_Easy_Cam_Distance>
+        <name>Easy Cam Distance</name>
+        <value>3350.000000000</value>
+    </SliderFloat_Easy_Cam_Distance>
+    <SliderFloat_OrienationX>
+        <name>OrienationX</name>
+        <value>0.000000000</value>
+    </SliderFloat_OrienationX>
+    <SliderFloat_OrienationY>
+        <name>OrienationY</name>
+        <value>0.000000000</value>
+    </SliderFloat_OrienationY>
+    <SliderFloat_OrienationZ>
+        <name>OrienationZ</name>
+        <value>0.000000000</value>
+    </SliderFloat_OrienationZ>
+</controls>
